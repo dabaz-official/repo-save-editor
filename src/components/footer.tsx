@@ -9,6 +9,13 @@ export default async function Footer() {
       <p className="text-foreground/70">
         {t('description')}{' '}
         <Link
+          href="https://dabaz.me"
+          target="_blank"
+          className="text-foreground underline-offset-3 hover:underline"
+        >
+          DabAZ &{' '}
+        </Link>
+        <Link
           href="https://github.com/luccasfr"
           target="_blank"
           className="text-foreground underline-offset-3 hover:underline"

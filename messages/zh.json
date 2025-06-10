@@ -1,0 +1,155 @@
+{
+  "version_history": {
+    "title": "版本历史",
+    "description": "这是一个版本更新的历史列表。它包括错误修复、新功能和其他改进。",
+    "release_date": "发布时间",
+    "changes": "更改"
+  },
+  "upload_file": {
+    "title": "上传文件",
+    "description": "将 R.E.P.O. 存档文件拖放或点击下方区域后选择文件上传。",
+    "status": {
+      "over": "you can drop the file now.",
+      "enter": "drop! drop! drop!",
+      "leave": "place your file(s) here.",
+      "none": "click to select, or drag and drop the file.",
+      "mouseEnter": "click to select the file."
+    },
+    "success": {
+      "copy": "File copied to clipboard!"
+    },
+    "save_game": {
+      "info": "The savegames are located typically in"
+    },
+    "error": {
+      "invalid_file_type": "Invalid file type!",
+      "select_one_file": "Select only one file!",
+      "invalid_file": "Invalid file! Please upload a valid save game file."
+    }
+  },
+  "save_editor": {
+    "error": {
+      "invalid_file": "Invalid file! Please upload a valid save game file."
+    }
+  },
+  "save_history": {
+    "title": "Recent",
+    "clear": "Clear history",
+    "level": "Level:",
+    "total_haul": "Total haul:",
+    "players": "Players:",
+    "load": "Load Save",
+    "download": "Download",
+    "disclaimer": "The save game data is stored locally in your browser. It is not sent to any server and is deleted when you clear your browser cache or use incognito mode.",
+    "disable": "Disable history",
+    "enable": "Enable history",
+    "disabled": "History disabled",
+    "empty": "No recent saves found."
+  },
+  "github_stars": {
+    "title": "Stars",
+    "description": "If you like the project, consider giving a star on GitHub!"
+  },
+  "save_data": {
+    "new_file": "New file",
+    "reset": "Reset changes",
+    "save": "Save",
+    "players": "Players",
+    "run_data": "Run data"
+  },
+  "player_list": {
+    "title": "Player List",
+    "status": "Status",
+    "upgrades": "Upgrades",
+    "attributes": {
+      "playerHealth": "Health",
+      "playerUpgradeStamina": "Stamina",
+      "playerUpgradeSpeed": "Speed",
+      "playerUpgradeStrength": "Strength",
+      "playerUpgradeRange": "Range",
+      "playerUpgradeLaunch": "Launch",
+      "playerUpgradeExtraJump": "Extra Jump",
+      "playerUpgradeMapPlayerCount": "Player Count",
+      "playerUpgradeHealth": "Health Upgrade",
+      "playerUpgradeCrouchRest": "Crouch Rest",
+      "playerUpgradeTumbleWings": "Tumble Wings"
+    }
+  },
+  "run_stats": {
+    "title": "Run Data",
+    "played_time": "played",
+    "items_title": "Items",
+    "edit_time": "Edit time played",
+    "edit_time_title": "Edit Time Played",
+    "edit_time_description": "Adjust the time played for your save game",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "cancel": "Cancel",
+    "save": "Save",
+    "stats": {
+      "level": "Level",
+      "currency": "Money (K)",
+      "total_haul": "Total Haul (K)",
+      "charging_station": "Base Charges",
+      "Cart Medium": "Cart Medium",
+      "Cart Small": "Cart Small",
+      "Drone Battery": "Drone Battery",
+      "Drone Feather": "Drone Feather",
+      "Drone Indestructible": "Drone Indestructible",
+      "Drone Torque": "Drone Torque",
+      "Drone Zero Gravity": "Drone Zero Gravity",
+      "Extraction Tracker": "Extraction Tracker",
+      "Grenade Duct Taped": "Duct Taped Grenade",
+      "Grenade Explosive": "Explosive Grenade",
+      "Grenade Human": "Human Grenade",
+      "Grenade Shockwave": "Shockwave Grenade",
+      "Grenade Stun": "Stun Grenade",
+      "Gun Handgun": "Handgun",
+      "Gun Shotgun": "Shotgun",
+      "Gun Tranq": "Tranq Gun",
+      "Health Pack Large": "Large Health Pack",
+      "Health Pack Medium": "Medium Health Pack",
+      "Health Pack Small": "Small Health Pack",
+      "Melee Baseball Bat": "Baseball Bat",
+      "Melee Frying Pan": "Frying Pan",
+      "Melee Inflatable Hammer": "Inflatable Hammer",
+      "Melee Sledge Hammer": "Sledge Hammer",
+      "Melee Sword": "Sword",
+      "Mine Explosive": "Explosive Mine",
+      "Mine Shockwave": "Shockwave Mine",
+      "Mine Stun": "Stun Mine",
+      "Orb Zero Gravity": "Zero Gravity Orb",
+      "Power Crystal": "Power Crystal",
+      "Rubber Duck": "Rubber Duck",
+      "Upgrade Map Player Count": "Map Player Count Upgrade",
+      "Upgrade Player Energy": "体力 (Energy) 升级",
+      "Upgrade Player Extra Jump": "额外跳跃 (Extra Jump) 升级",
+      "Upgrade Player Grab Range": "Grab Range Upgrade",
+      "Upgrade Player Grab Strength": "Grab Strength Upgrade",
+      "Upgrade Player Health": "Player Health Upgrade",
+      "Upgrade Player Sprint Speed": "Sprint Speed Upgrade",
+      "Upgrade Player Tumble Launch": "Tumble Launch Upgrade",
+      "Valuable Tracker": "Valuable Tracker",
+      "Gun Stun": "Gun Stun",
+      "Melee Stun Baton": "Melee Stun Baton",
+      "Gun Shockwave": "Gun Shockwave",
+      "Duck Bucket": "Duck Bucket",
+      "Cart Cannon": "Cart Cannon",
+      "Cart Laser": "Cart Laser",
+      "Gun Laser": "Gun Laser",
+      "Phase Bridge": "Phase Bridge",
+      "Upgrade Player Crouch Rest": "Crouch Rest Upgrade",
+      "Upgrade Player Tumble Wings": "Tumble Wings Upgrade"
+    }
+  },
+  "theme": {
+    "toggle": "Toggle Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "footer": {
+    "description": "Made with ❤️ by"
+  }
+}

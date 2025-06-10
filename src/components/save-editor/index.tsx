@@ -109,7 +109,6 @@ export default function SaveEditor() {
           <Separator />
           <SaveGameHistory onSelectSave={handleSelectSave} />
           <Separator />
-          <VersionHistory />
         </div>
       )}
     </>
