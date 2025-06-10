@@ -7,44 +7,44 @@
   },
   "upload_file": {
     "title": "上传文件",
-    "description": "将 R.E.P.O. 存档文件拖放或点击下方区域后选择文件上传。",
+    "description": "将 R.E.P.O. 存档文件拖放到下方区域或点击下方区域后选择文件上传。",
     "status": {
-      "over": "you can drop the file now.",
-      "enter": "drop! drop! drop!",
-      "leave": "place your file(s) here.",
-      "none": "click to select, or drag and drop the file.",
-      "mouseEnter": "click to select the file."
+      "over": "你现在可以放下文件了",
+      "enter": "放下！放下！放下！",
+      "leave": "将文件放在这里",
+      "none": "点击以选择文件或直接将文件拖进此区域",
+      "mouseEnter": "点击以选择文件"
     },
     "success": {
-      "copy": "File copied to clipboard!"
+      "copy": "文件已复制到剪贴板！"
     },
     "save_game": {
-      "info": "The savegames are located typically in"
+      "info": "游戏存档文档通常位于以下位置："
     },
     "error": {
-      "invalid_file_type": "Invalid file type!",
-      "select_one_file": "Select only one file!",
-      "invalid_file": "Invalid file! Please upload a valid save game file."
+      "invalid_file_type": "错误的文件类型！",
+      "select_one_file": "请只选择一个文件！",
+      "invalid_file": "无效文件！请上传一个有效的游戏存档文件。"
     }
   },
   "save_editor": {
     "error": {
-      "invalid_file": "Invalid file! Please upload a valid save game file."
+      "invalid_file": "无效文件！请上传一个有效的游戏存档文件。"
     }
   },
   "save_history": {
-    "title": "Recent",
-    "clear": "Clear history",
-    "level": "Level:",
-    "total_haul": "Total haul:",
-    "players": "Players:",
-    "load": "Load Save",
-    "download": "Download",
-    "disclaimer": "The save game data is stored locally in your browser. It is not sent to any server and is deleted when you clear your browser cache or use incognito mode.",
-    "disable": "Disable history",
-    "enable": "Enable history",
-    "disabled": "History disabled",
-    "empty": "No recent saves found."
+    "title": "最近上传的存档",
+    "clear": "清空历史记录",
+    "level": "关卡：",
+    "total_haul": "总收入：",
+    "players": "玩家数量：",
+    "load": "加载此存档",
+    "download": "下载",
+    "disclaimer": "游戏存档文件仅保留在本地。我们不会向任何服务器发送你的存档文件。并且，这些存档文件会在你清除浏览器缓存或使用匿名模式后被删除。",
+    "disable": "关闭历史记录",
+    "enable": "开启历史记录",
+    "disabled": "历史记录功能已关闭",
+    "empty": "未找到最近的存档。"
   },
   "github_stars": {
     "title": "Stars",
