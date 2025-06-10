@@ -15,7 +15,7 @@ R.E.P.O Save Editor is a web application that allows you to modify R.E.P.O game 
 - Purchased items and upgrades
 - Team settings and configurations
 
-**Try it now: [https://repo.dabaz.me](https://repo.dabaz.me)**
+**Try it now: [https://repo-save-editor.vercel.app](https://repo-save-editor.vercel.app)**
 
 ## Technologies
 
@@ -76,14 +76,8 @@ Special thanks to [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O
     <tr>
       <td align="center">
         <a href="https://github.com/luccasfr">
-          <img src="https://github.com/luccasfr.png?size=200" alt="Lucas Ferreira" />
+          <img src="https://github.com/luccasfr.png?size=100" alt="Lucas Ferreira" />
           <p>Lucas Ferreira</p>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/dabaz-official">
-          <img src="https://github.com/dabaz-official.png?size=200" alt="DabAZ" />
-          <p>Dabaz</p>
         </a>
       </td>
     </tr>
