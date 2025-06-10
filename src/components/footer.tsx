@@ -13,8 +13,9 @@ export default async function Footer() {
           target="_blank"
           className="text-foreground underline-offset-3 hover:underline"
         >
-          DabAZ &{' '}
+          DabAZ
         </Link>
+        {' '}&{' '}
         <Link
           href="https://github.com/luccasfr"
           target="_blank"
