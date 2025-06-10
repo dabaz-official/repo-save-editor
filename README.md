@@ -15,8 +15,6 @@ R.E.P.O Save Editor is a web application that allows you to modify R.E.P.O game 
 - Purchased items and upgrades
 - Team settings and configurations
 
-**Try it now: [https://repo.dabaz.me](https://repo.dabaz.me)**
-
 ## Technologies
 
 This project is built using modern web technologies:
@@ -55,16 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to access th
 4. Download the modified save file
 5. Replace your original save file with the modified one
 
-## Building for Production
-
-```bash
-# Create an optimized production build
-yarn run build
-
-# Start the production server
-yarn start
-```
-
 ## Acknowledgements
 
 Special thanks to [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O-Save-Editor) for providing the encryption functions with the key in Python, which were extracted and implemented in Node.js for this project.
@@ -83,7 +71,7 @@ Special thanks to [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O
       <td align="center">
         <a href="https://github.com/dabaz-official">
           <img src="https://github.com/dabaz-official.png?size=200" alt="DabAZ" />
-          <p>Dabaz</p>
+          <p>DabAZ</p>
         </a>
       </td>
     </tr>

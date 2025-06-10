@@ -1,4 +1,4 @@
-# R.E.P.O Save Editor
+# R.E.P.O 存档编辑器
 
 [<img src="https://flagcdn.com/w20/cn.png" alt="中国国旗"> 简体中文](./README.cn.md)
 
@@ -6,68 +6,56 @@
   <img src="src/app/icon.png" alt="R.E.P.O Save Editor Logo" width="200" height="200" />
 </div>
 
-## Overview
+## 总览
 
-R.E.P.O Save Editor is a web application that allows you to modify R.E.P.O game save files. This tool helps players adjust various game parameters, including:
+R.E.P.O 存档编辑器是一个用于编辑 R.E.P.O 存档文件的网络应用。这个工具帮助玩家来调整各种游戏参数，包括：
 
-- Player stats and attributes
-- Run stats and currencies
-- Purchased items and upgrades
-- Team settings and configurations
+- 玩家统计和属性
+- 运行状态和货币
+- 已购买的物品和升级
+- 团队设置与配置
 
-**Try it now: [https://repo-save-editor.vercel.app](https://repo-save-editor.vercel.app)**
+## 技术
 
-## Technologies
+这个项目使用现代 Web 技术构建，包括：
 
-This project is built using modern web technologies:
+- **Next.js 15** - 使用 App 路由的 React 框架
+- **React 19** - UI 库
+- **TypeScript** - 类型安全的 JavaScript
+- **TailwindCSS 4** - 面向应用的 CSS 框架
+- **next-intl** - 国际化支持
+- **shadcn/ui** - 可使用的 UI 组件（基于 Radix UI）
+- **Lucide React** - 好看且一致的图标库
 
-- **Next.js 15** - React framework with App Router
-- **React 19** - UI library
-- **TypeScript** - Type-safe JavaScript
-- **TailwindCSS 4** - Utility-first CSS framework
-- **next-intl** - Internationalization support
-- **shadcn/ui** - Accessible UI components built with Radix UI
-- **Lucide React** - Beautiful & consistent icon set
-
-## Getting Started
+## 开始
 
 ```bash
-# Clone the repository
+# 克隆原 GitHub 库
 git clone https://github.com/luccasfr/repo-save-editor.git
 
-# Navigate to the project directory
+# 进入项目路径
 cd repo-save-editor
 
-# Install dependencies
+# 安装依赖项
 yarn install
 
-# Start the development server
+# 启动开发服务器
 yarn run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to access the application.
+在浏览器中打开 [http://localhost:3000](http://localhost:3000) 以查看应用。
 
-## How to Use
+## 如何使用
 
-1. Locate your R.E.P.O save file (typically in `%USERPROFILE%\AppData\LocalLow\semiwork\Repo\saves`)
-2. Upload the save file to the editor
-3. Make your desired changes
-4. Download the modified save file
-5. Replace your original save file with the modified one
+1. 找到你的 R.E.P.O 存档文件（通常在 `%USERPROFILE%\AppData\LocalLow\semiwork\Repo\saves`）
+2. 上传存档文件到编辑器
+3. 根据你的期望修改参数
+4. 下载修改后的存档文件
+5. 将旧存档文件替换为修改后的存档文件
 
-## Building for Production
+## 致谢
 
-```bash
-# Create an optimized production build
-yarn run build
-
-# Start the production server
-yarn start
-```
-
-## Acknowledgements
-
-Special thanks to [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O-Save-Editor) for providing the encryption functions with the key in Python, which were extracted and implemented in Node.js for this project.
+由衷感激 [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O-Save-Editor) 提供了 Python 中带有密钥的加密功能，这些功能被提取并使用 Node.js 实现，最后用于本项目。
 
 ## Author
 
@@ -78,6 +66,12 @@ Special thanks to [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O
         <a href="https://github.com/luccasfr">
           <img src="https://github.com/luccasfr.png?size=100" alt="Lucas Ferreira" />
           <p>Lucas Ferreira</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dabaz-official">
+          <img src="https://github.com/dabaz-official.png?size=200" alt="DabAZ" />
+          <p>DabAZ</p>
         </a>
       </td>
     </tr>
