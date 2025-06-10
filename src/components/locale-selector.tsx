@@ -22,8 +22,8 @@ export function LocaleSelector({ ...props }: LocaleSelectorProps) {
 
   const flag = useMemo(() => {
     switch (locale) {
-      case 'pt': {
-        return 'br'
+      case 'zh': {
+        return 'cn'
       }
       case 'en': {
         return 'us'
