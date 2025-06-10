@@ -6,7 +6,7 @@
     "changes": "Changes"
   },
   "upload_file": {
-    "title": "Send file",
+    "title": "Upload file",
     "description": "Drag and drop the save game file here or click to select.",
     "status": {
       "over": "you can drop the file now.",
