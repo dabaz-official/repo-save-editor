@@ -75,17 +75,17 @@ export function LocaleSelector({ ...props }: LocaleSelectorProps) {
         <DropdownMenuItem
           className={cn(
             'flex justify-between',
-            locale === 'pt' && 'font-semibold'
+            locale === 'zh' && 'font-semibold'
           )}
-          onClick={() => handleLocaleChange('pt')}
+          onClick={() => handleLocaleChange('zh')}
         >
           <Image
-            src={`https://flagcdn.com/br.svg`}
+            src={`https://flagcdn.com/cn.svg`}
             alt="flag"
             width={24}
             height={24}
           />
-          Português
+          简体中文
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
