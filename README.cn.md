@@ -57,7 +57,7 @@ yarn run dev
 
 由衷感激 [N0edL's R.E.P.O Save Editor](https://github.com/N0edL/R.E.P.O-Save-Editor) 提供了 Python 中带有密钥的加密功能，这些功能被提取并使用 Node.js 实现，最后用于本项目。
 
-## Author
+## 作者
 
 <table>
   <tbody>
